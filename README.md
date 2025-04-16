@@ -4,17 +4,29 @@ This project implements 13 classical encryption and decryption algorithms in the
 
 List of Implemented Ciphers:
 1.Caesar Cipher
+
 2.Atbash Cipher
+
 3.August Cipher
+
 4.Affine Cipher
+
 5.Vigenère Cipher
+
 6.Gronsfeld Cipher
+
 7.Beaufort Cipher
+
 8.Autoclave / Running Key Cipher
+
 9.N-Gram Operations (Bigram, Trigram, etc.)
+
 10.Hill Cipher (Supports 2×2 and 3x3 key matrix for encryption and decryption)
+
 11.Rail Fence Cipher
+
 12.Route Cipher
+
 13.Myszkowski Cipher
 
 Features:
