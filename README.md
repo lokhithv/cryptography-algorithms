@@ -74,6 +74,10 @@ ciphers.c -> Main C source file containing all cipher logic
 
 README.txt -> Project documentation (this file)
 
+Output:
+
+The outputs of the 13 algorithms are listed in screenshots folder
+
 Notes:
 The Hill cipher requires the key matrix to be invertible mod 26. The program checks for this and prompts if the matrix is invalid.
 
